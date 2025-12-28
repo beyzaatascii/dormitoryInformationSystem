@@ -70,7 +70,4 @@ Program başlatıldığında kullanıcıyı şu seçenekler karşılar:
 
 ---
 
-<p align="center">
-  Hazırlayan: <strong>Beyza Taşcı</strong> <br>
-  <em>Geleceğin Yazılım Mühendisi Adayı</em>
-</p>
+
